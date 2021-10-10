@@ -13,8 +13,8 @@ $ npm install @types/google-apps-script -S
 $ tslint --init 
 
 ## prettier
-tslint-config-prettierはTSLintの設定のうちPrettierと衝突するものを無効化するパッケージ。tslint-plugin-prettier はTSLintの設定のコードチェック時にPrettierのルールもチェックしてフォーマットしてくれます。(Prettierのルールを優先する)
 $ npm install prettier tslint-config-prettier tslint-plugin-prettier -D
+※tslint-config-prettierはTSLintの設定のうちPrettierと衝突するものを無効化するパッケージ。tslint-plugin-prettier はTSLintの設定のコードチェック時にPrettierのルールもチェックしてフォーマットしてくれます。(Prettierのルールを優先する)
 
 ## gasテンプレート
 https://docs.google.com/spreadsheets/d/1HfMtX8krr4pixm6FDLuM6N4WW_SGgS4EJw8buF9FZAM/edit?usp=sharing
